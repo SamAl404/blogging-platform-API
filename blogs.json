@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Exploring the Andes: A Hiker's Guide",
+    "content": "Discover breathtaking trails and hidden gems in the Colombian Andes. This guide covers essential gear, best seasons, and safety tips for an unforgettable adventure.",
+    "category": "Travel",
+    "tags": ["Hiking", "Colombia", "Andes", "Adventure"],
+    "createdAt": "2023-04-15T10:30:00Z",
+    "updatedAt": "2024-01-20T08:15:00Z"
+  },
+  {
+    "id": 2,
+    "title": "The Future of AI in Everyday Life",
+    "content": "From smart homes to personalized recommendations, Artificial Intelligence is transforming our daily routines. We delve into the ethical implications and exciting possibilities.",
+    "category": "Technology",
+    "tags": ["AI", "Innovation", "Future Tech"],
+    "createdAt": "2022-11-20T15:00:00Z",
+    "updatedAt": "2024-05-10T11:45:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Mastering Arepas: A Culinary Journey",
+    "content": "Learn the secrets to making perfect Colombian arepas at home. This recipe includes tips for different fillings and cooking methods.",
+    "category": "Food & Cooking",
+    "tags": ["Colombian Food", "Arepas", "Recipe", "Cooking"],
+    "createdAt": "2024-02-01T09:00:00Z",
+    "updatedAt": "2024-02-01T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Remote Work Productivity Hacks",
+    "content": "Working from home comes with its challenges. Here are effective strategies to stay focused, manage your time, and maintain a healthy work-life balance.",
+    "category": "Productivity",
+    "tags": ["Remote Work", "Work from Home", "Efficiency"],
+    "createdAt": "2023-07-25T14:10:00Z",
+    "updatedAt": "2023-07-25T14:10:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Sustainable Living: Small Changes, Big Impact",
+    "content": "Discover practical ways to reduce your environmental footprint, from conscious consumption to eco-friendly habits for a greener lifestyle.",
+    "category": "Environment",
+    "tags": ["Sustainability", "Eco-friendly", "Green Living"],
+    "createdAt": "2021-03-10T08:45:00Z",
+    "updatedAt": "2023-11-05T16:20:00Z"
+  }
+]

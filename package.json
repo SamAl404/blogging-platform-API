@@ -4,6 +4,7 @@
   "description": "CRUD API application for a blogging platform",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,11 @@
   },
   "homepage": "https://github.com/SamAl404/blogging-platform-API#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "pg-promise": "^11.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
